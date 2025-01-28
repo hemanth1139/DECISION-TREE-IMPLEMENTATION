@@ -11,3 +11,8 @@ DOMAIN : MACHINE LEARNING
 DURATION : 4 WEEKS
 
 MENTOR : HARISH NEELAM
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/71967a84-fd05-4644-b440-2dd784d5f8c2)
